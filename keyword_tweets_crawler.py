@@ -6,6 +6,7 @@ from twscrape import API
 from twscrape.logger import set_log_level
 from datetime import date, datetime
 from dotenv import load_dotenv
+import fire
 
 load_dotenv()
 ACCOUNT_DB = os.getenv("ACCOUNT_DB")
@@ -25,7 +26,7 @@ def save_to_file(data, filename):
         with open(filename, "r") as f:
             file_data = json.load(f)
 
-        file_data = data
+        file_data.extend(data)
 
         # Save the updated data
         with open(filename, "w") as f:
@@ -36,7 +37,7 @@ def save_to_file(data, filename):
             json.dump(data, f, indent=4, default=json_serial)
 
 
-async def main():
+async def keyword_tweets_crawler(start=0, end=100):
     api = API(ACCOUNT_DB)
     set_log_level("DEBUG")
 
@@ -44,14 +45,14 @@ async def main():
         data = json.load(f)
         data = data["data"]
 
-    data = list(data.values())
+    data = list(data.values())[start:end]
 
     for item in tqdm(data, total=len(data), desc="Fetching tweets"):
         print(f"Fetching tweets for {item['name']}")
         keyword = item["name"]
 
         if item["name"] == item["symbol"]:
-            q = f"{keyword} since:2023-01-01"
+            q = f"{keyword} since:2023-01-01 lang:en"
         else:
             q = f"{keyword} OR {item['symbol']} since:2023-01-01 lang:en"
 
@@ -66,8 +67,16 @@ async def main():
 
                 save_to_file(tweets, f"data/twitter/{keyword}_tweets.json")
 
+                tweets = []
+
         save_to_file(tweets, f"data/twitter/{keyword}_tweets.json")
+
+        print(f"Collected {tweet_count} tweets for {keyword}")
+
+
+def main(start=0, end=100):
+    asyncio.run(fire.Fire(keyword_tweets_crawler(start, end)))
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()
