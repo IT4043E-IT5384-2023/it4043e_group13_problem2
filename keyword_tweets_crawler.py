@@ -19,6 +19,23 @@ def json_serial(obj):
     raise TypeError("Type %s not serializable" % type(obj))
 
 
+def save_to_file(data, filename):
+    # If the file exists, load the existing data
+    if os.path.exists(filename):
+        with open(filename, "r") as f:
+            file_data = json.load(f)
+
+        file_data = data
+
+        # Save the updated data
+        with open(filename, "w") as f:
+            json.dump(file_data, f, indent=4, default=json_serial)
+
+    else:
+        with open(filename, "w") as f:
+            json.dump(data, f, indent=4, default=json_serial)
+
+
 async def main():
     api = API(ACCOUNT_DB)
     set_log_level("DEBUG")
@@ -36,14 +53,20 @@ async def main():
         if item["name"] == item["symbol"]:
             q = f"{keyword} since:2023-01-01"
         else:
-            q = f"{keyword} OR {item['symbol']} since:2023-01-01"
+            q = f"{keyword} OR {item['symbol']} since:2023-01-01 lang:en"
 
         tweets = []
+        tweet_count = 0
         async for tweet in api.search(q, limit=-1):
             tweets.append(tweet.dict())
+            tweet_count += 1
 
-        with open(f"data/twitter/{keyword}_tweets.json", "w") as f:
-            json.dump(tweets, f, indent=4, default=json_serial)
+            if tweet_count % 1000 == 0:
+                print(f"Collected {tweet_count} tweets for {keyword}")
+
+                save_to_file(tweets, f"data/twitter/{keyword}_tweets.json")
+
+        save_to_file(tweets, f"data/twitter/{keyword}_tweets.json")
 
 
 if __name__ == "__main__":
