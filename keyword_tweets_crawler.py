@@ -37,7 +37,7 @@ def save_to_file(data, filename):
             json.dump(data, f, indent=4, default=json_serial)
 
 
-async def keyword_tweets_crawler(start=0, end=100):
+async def keyword_tweets_crawler(start=0, end=100, limit=50000):
     api = API(ACCOUNT_DB)
     set_log_level("DEBUG")
 
@@ -50,15 +50,16 @@ async def keyword_tweets_crawler(start=0, end=100):
     for item in tqdm(data, total=len(data), desc="Fetching tweets"):
         print(f"Fetching tweets for {item['name']}")
         keyword = item["name"]
+        filter = "since:2023-01-01 lang:en min_replies:5 min_faves:20 min_retweets:10"
 
         if item["name"] == item["symbol"]:
-            q = f"{keyword} since:2023-01-01 lang:en"
+            q = f"{keyword}{filter}"
         else:
-            q = f"{keyword} OR {item['symbol']} since:2023-01-01 lang:en"
+            q = f"{keyword} OR {item['symbol']} {filter}"
 
         tweets = []
         tweet_count = 0
-        async for tweet in api.search(q, limit=-1):
+        async for tweet in api.search(q, limit=limit):
             tweets.append(tweet.dict())
             tweet_count += 1
 
@@ -74,8 +75,8 @@ async def keyword_tweets_crawler(start=0, end=100):
         print(f"Collected {tweet_count} tweets for {keyword}")
 
 
-def main(start=0, end=100):
-    asyncio.run(fire.Fire(keyword_tweets_crawler(start, end)))
+def main(start=0, end=100, limit=50000):
+    asyncio.run(fire.Fire(keyword_tweets_crawler))
 
 
 if __name__ == "__main__":
