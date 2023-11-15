@@ -48,14 +48,14 @@ async def keyword_tweets_crawler(start=0, end=100, limit=50000):
     data = list(data.values())[start:end]
 
     for item in tqdm(data, total=len(data), desc="Fetching tweets"):
-        print(f"Fetching tweets for {item['name']}")
-        keyword = item["name"]
+        print(f"Fetching tweets for {item['symbol']}")
+        keyword = item["symbol"]
         filter = "since:2023-01-01 lang:en min_replies:5 min_faves:5 min_retweets:5"
 
         if item["name"] == item["symbol"]:
             q = f"(#{keyword} OR ${keyword}) {filter}"
         else:
-            q = f"({keyword} OR ${item['symbol']} OR #{keyword} OR #{item['symbol']}) {filter}"
+            q = f"({item['name']} OR ${item['symbol']} OR #{item['name']} OR #{item['symbol']}) {filter}"
 
         tweets = []
         tweet_count = 0
