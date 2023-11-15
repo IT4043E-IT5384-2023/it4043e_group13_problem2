@@ -50,12 +50,12 @@ async def keyword_tweets_crawler(start=0, end=100, limit=50000):
     for item in tqdm(data, total=len(data), desc="Fetching tweets"):
         print(f"Fetching tweets for {item['name']}")
         keyword = item["name"]
-        filter = "since:2023-01-01 lang:en min_replies:5 min_faves:20 min_retweets:10"
+        filter = "since:2023-01-01 lang:en min_replies:5 min_faves:5 min_retweets:5"
 
         if item["name"] == item["symbol"]:
-            q = f"{keyword}{filter}"
+            q = f"(#{keyword} OR ${keyword}) {filter}"
         else:
-            q = f"{keyword} OR {item['symbol']} {filter}"
+            q = f"({keyword} OR ${item['symbol']} OR #{keyword} OR #{item['symbol']}) {filter}"
 
         tweets = []
         tweet_count = 0
@@ -75,8 +75,12 @@ async def keyword_tweets_crawler(start=0, end=100, limit=50000):
         print(f"Collected {tweet_count} tweets for {keyword}")
 
 
-def main(start=0, end=100, limit=50000):
-    asyncio.run(fire.Fire(keyword_tweets_crawler))
+def run_async_crawler(start=0, end=100, limit=50000):
+    asyncio.run(keyword_tweets_crawler(start, end, limit))
+
+
+def main():
+    fire.Fire(run_async_crawler)
 
 
 if __name__ == "__main__":
