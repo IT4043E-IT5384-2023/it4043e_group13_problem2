@@ -37,7 +37,12 @@ def save_to_file(data, filename):
             json.dump(data, f, indent=4, default=json_serial)
 
 
-async def keyword_tweets_crawler(start=0, end=100, limit=50000):
+async def keyword_tweets_crawler(start, end, limit, save_dir):
+    # Check if save_dir exists
+    if not os.path.exists(save_dir):
+        print(f"Creating directory {save_dir}")
+        os.makedirs(save_dir)
+
     api = API(ACCOUNT_DB)
     set_log_level("DEBUG")
 
@@ -75,8 +80,8 @@ async def keyword_tweets_crawler(start=0, end=100, limit=50000):
         print(f"Collected {tweet_count} tweets for {keyword}")
 
 
-def run_async_crawler(start=0, end=100, limit=50000):
-    asyncio.run(keyword_tweets_crawler(start, end, limit))
+def run_async_crawler(start=0, end=100, limit=50000, save_dir="data/twitter"):
+    asyncio.run(keyword_tweets_crawler(start, end, limit, save_dir))
 
 
 def main():
