@@ -1,0 +1,1124 @@
+[
+    {
+        "id": 1724501021001466147,
+        "id_str": "1724501021001466147",
+        "url": "https://twitter.com/jhammett1991/status/1724501021001466147",
+        "date": "2023-11-14T18:54:17+00:00",
+        "user": {
+            "id": 90263814,
+            "id_str": "90263814",
+            "url": "https://twitter.com/jhammett1991",
+            "username": "jhammett1991",
+            "displayname": "Jordyn Hammett",
+            "rawDescription": "",
+            "created": "2009-11-15T22:33:17+00:00",
+            "followersCount": 2,
+            "friendsCount": 1,
+            "statusesCount": 37,
+            "favouritesCount": 0,
+            "listedCount": 0,
+            "mediaCount": 20,
+            "location": "",
+            "profileImageUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profileBannerUrl": null,
+            "protected": null,
+            "verified": false,
+            "blue": false,
+            "blueType": null,
+            "descriptionLinks": [],
+            "_type": "snscrape.modules.twitter.User"
+        },
+        "lang": "en",
+        "rawContent": "Take now !!\ud83c\udf89\ud83c\udf89  \n#Memecoin #MemeLand $MEME #Airdrop #bitcoin #Doge #cryptoprices $SOL $HEX $HEX  #SEI  @joscelyn78589 @Terrance2hbzpj @Helen081490788 @Ruth49348142 \nhttps://t.co/mTQDCmeswy",
+        "replyCount": 0,
+        "retweetCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "conversationId": 1724501021001466147,
+        "hashtags": [
+            "Memecoin",
+            "MemeLand",
+            "Airdrop",
+            "bitcoin",
+            "Doge",
+            "cryptoprices",
+            "SEI"
+        ],
+        "cashtags": [
+            "MEME",
+            "SOL",
+            "HEX",
+            "HEX"
+        ],
+        "mentionedUsers": [
+            {
+                "id": 1702828457485615104,
+                "username": "joscelyn78589",
+                "displayname": "Sharronda Joscelyn \u2764\ufe0f Memecoin",
+                "_type": "snscrape.modules.twitter.UserRef"
+            },
+            {
+                "id": 1513748626501091329,
+                "username": "Terrance2hbzpj",
+                "displayname": "\u0627\u0644\u0641\u0647\u062f \u0641\u0644\u0648\u0643\u064a \u2764\ufe0f Memecoin",
+                "_type": "snscrape.modules.twitter.UserRef"
+            },
+            {
+                "id": 1703876030690418688,
+                "username": "Helen081490788",
+                "displayname": "Helen08",
+                "_type": "snscrape.modules.twitter.UserRef"
+            },
+            {
+                "id": 1703871707524833280,
+                "username": "Ruth49348142",
+                "displayname": "Ruth49",
+                "_type": "snscrape.modules.twitter.UserRef"
+            }
+        ],
+        "links": [
+            {
+                "url": "https://twitter.com/i/lists/1723853494745170430",
+                "text": "twitter.com/i/lists/172385\u2026",
+                "tcourl": "https://t.co/mTQDCmeswy"
+            }
+        ],
+        "viewCount": null,
+        "retweetedTweet": null,
+        "quotedTweet": null,
+        "place": null,
+        "coordinates": null,
+        "inReplyToTweetId": null,
+        "inReplyToUser": null,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "sourceUrl": "https://mobile.twitter.com",
+        "sourceLabel": "Twitter Web App",
+        "media": {
+            "photos": [],
+            "videos": [],
+            "animated": []
+        },
+        "_type": "snscrape.modules.twitter.Tweet"
+    },
+    {
+        "id": 1724501019651145842,
+        "id_str": "1724501019651145842",
+        "url": "https://twitter.com/FieRceSingh/status/1724501019651145842",
+        "date": "2023-11-14T18:54:17+00:00",
+        "user": {
+            "id": 3178149960,
+            "id_str": "3178149960",
+            "url": "https://twitter.com/FieRceSingh",
+            "username": "FieRceSingh",
+            "displayname": "Crypto Craze \ud83c\udff0 \ud83d\udef8\u2764\ufe0f Memecoin",
+            "rawDescription": "Crypto Trading is My Life Line #Bitcoin #web3",
+            "created": "2015-04-28T13:01:03+00:00",
+            "followersCount": 211,
+            "friendsCount": 1527,
+            "statusesCount": 4379,
+            "favouritesCount": 2954,
+            "listedCount": 6,
+            "mediaCount": 888,
+            "location": " India",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1722758842612858880/_ba4S-pC_normal.jpg",
+            "profileBannerUrl": null,
+            "protected": null,
+            "verified": false,
+            "blue": false,
+            "blueType": null,
+            "descriptionLinks": [],
+            "_type": "snscrape.modules.twitter.User"
+        },
+        "lang": "en",
+        "rawContent": "$Bitcoin Dump hard !",
+        "replyCount": 0,
+        "retweetCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "conversationId": 1724501019651145842,
+        "hashtags": [],
+        "cashtags": [],
+        "mentionedUsers": [],
+        "links": [],
+        "viewCount": null,
+        "retweetedTweet": null,
+        "quotedTweet": null,
+        "place": null,
+        "coordinates": null,
+        "inReplyToTweetId": null,
+        "inReplyToUser": null,
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "sourceUrl": "http://twitter.com/#!/download/ipad",
+        "sourceLabel": "Twitter for iPad",
+        "media": {
+            "photos": [],
+            "videos": [],
+            "animated": []
+        },
+        "_type": "snscrape.modules.twitter.Tweet"
+    },
+    {
+        "id": 1722403627497885944,
+        "id_str": "1722403627497885944",
+        "url": "https://twitter.com/ROLandverse/status/1722403627497885944",
+        "date": "2023-11-09T00:00:00+00:00",
+        "user": {
+            "id": 1651494125416636417,
+            "id_str": "1651494125416636417",
+            "url": "https://twitter.com/ROLandverse",
+            "username": "ROLandverse",
+            "displayname": "Ragnarok Landverse",
+            "rawDescription": "Welcome to Ragnarok Landverse! Play now and grab exclusive rewards and giveaways!",
+            "created": "2023-04-27T07:51:14+00:00",
+            "followersCount": 15514,
+            "friendsCount": 2,
+            "statusesCount": 292,
+            "favouritesCount": 135,
+            "listedCount": 14,
+            "mediaCount": 161,
+            "location": "",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1657928335828348928/9WqR0Esj_normal.jpg",
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1651494125416636417/1695271612",
+            "protected": null,
+            "verified": false,
+            "blue": false,
+            "blueType": "Business",
+            "descriptionLinks": [
+                {
+                    "url": "https://landverse.maxion.gg/download2",
+                    "text": "landverse.maxion.gg/download2",
+                    "tcourl": "https://t.co/nuU2hXT2xX"
+                }
+            ],
+            "_type": "snscrape.modules.twitter.User"
+        },
+        "lang": "en",
+        "rawContent": "\ud83c\udf81EXCLUSIVE GIVEAWAY  \ud83d\udc49 FOLLOW @ROLandverse, REPOST this Tweet &amp; WIN Follower milestones Rewards!\n\nWelcome to The Ultimate version of Ragnarok Online. Forged with love, combined with the power of #Web3 technology.\n\n\ud83d\udc99Play #RagnarokLandverse on PC!\n   \u261b\u261b https://t.co/Bjoz2WayJq https://t.co/dqzmwIJsRa",
+        "replyCount": 106,
+        "retweetCount": 326,
+        "likeCount": 700,
+        "quoteCount": 3,
+        "conversationId": 1722403627497885944,
+        "hashtags": [
+            "Web3",
+            "RagnarokLandverse"
+        ],
+        "cashtags": [],
+        "mentionedUsers": [
+            {
+                "id": 1651494125416636417,
+                "username": "ROLandverse",
+                "displayname": "Ragnarok Landverse",
+                "_type": "snscrape.modules.twitter.UserRef"
+            }
+        ],
+        "links": [
+            {
+                "url": "http://landverse.maxion.gg/download2",
+                "text": "landverse.maxion.gg/download2",
+                "tcourl": "https://t.co/Bjoz2WayJq"
+            }
+        ],
+        "viewCount": 87655,
+        "retweetedTweet": null,
+        "quotedTweet": null,
+        "place": null,
+        "coordinates": null,
+        "inReplyToTweetId": null,
+        "inReplyToUser": null,
+        "source": "<a href=\"https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels\" rel=\"nofollow\">advertiser-interface</a>",
+        "sourceUrl": "https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels",
+        "sourceLabel": "advertiser-interface",
+        "media": {
+            "photos": [
+                {
+                    "url": "https://pbs.twimg.com/media/F7c-TL2a4AAgY-v.jpg"
+                }
+            ],
+            "videos": [],
+            "animated": []
+        },
+        "_type": "snscrape.modules.twitter.Tweet"
+    },
+    {
+        "id": 1724501016551342490,
+        "id_str": "1724501016551342490",
+        "url": "https://twitter.com/ETH_whale_alert/status/1724501016551342490",
+        "date": "2023-11-14T18:54:16+00:00",
+        "user": {
+            "id": 1699669729680433152,
+            "id_str": "1699669729680433152",
+            "url": "https://twitter.com/ETH_whale_alert",
+            "username": "ETH_whale_alert",
+            "displayname": "ETH Detective",
+            "rawDescription": "Eth blockchain detective",
+            "created": "2023-09-07T06:23:52+00:00",
+            "followersCount": 76,
+            "friendsCount": 210,
+            "statusesCount": 2478,
+            "favouritesCount": 140,
+            "listedCount": 0,
+            "mediaCount": 0,
+            "location": "",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1699670010812084224/t86pYbIo_normal.jpg",
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1699669729680433152/1694796674",
+            "protected": null,
+            "verified": false,
+            "blue": false,
+            "blueType": null,
+            "descriptionLinks": [],
+            "_type": "snscrape.modules.twitter.User"
+        },
+        "lang": "en",
+        "rawContent": "\ud83d\ude80 High value transaction detected! \ud83d\udcb8\nFrom: 0xBf94F0AC752C739F623C463b5210a7fb2cbb420B\nTo: 0xad6eaa735D9dF3D7696fd03984379dAE02eD8862\nValue: 3,999.9976 #ETH (7,998,195.20 #USDT)\n#cryptocurrency #CRYPTO #blockchain #Ethereum #whalewatch #cryptoalert $ETH $USDT $BTC",
+        "replyCount": 0,
+        "retweetCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "conversationId": 1724501016551342490,
+        "hashtags": [
+            "ETH",
+            "USDT",
+            "cryptocurrency",
+            "CRYPTO",
+            "blockchain",
+            "Ethereum",
+            "whalewatch",
+            "cryptoalert"
+        ],
+        "cashtags": [
+            "ETH",
+            "USDT",
+            "BTC"
+        ],
+        "mentionedUsers": [],
+        "links": [],
+        "viewCount": null,
+        "retweetedTweet": null,
+        "quotedTweet": null,
+        "place": null,
+        "coordinates": null,
+        "inReplyToTweetId": null,
+        "inReplyToUser": null,
+        "source": "<a href=\"https://developer.twitter.com/\" rel=\"nofollow\">1699671230763200513ETH_whale_a</a>",
+        "sourceUrl": "https://developer.twitter.com/",
+        "sourceLabel": "1699671230763200513ETH_whale_a",
+        "media": {
+            "photos": [],
+            "videos": [],
+            "animated": []
+        },
+        "_type": "snscrape.modules.twitter.Tweet"
+    },
+    {
+        "id": 1724501015460745704,
+        "id_str": "1724501015460745704",
+        "url": "https://twitter.com/lbi_trader/status/1724501015460745704",
+        "date": "2023-11-14T18:54:16+00:00",
+        "user": {
+            "id": 1497666255557439495,
+            "id_str": "1497666255557439495",
+            "url": "https://twitter.com/lbi_trader",
+            "username": "lbi_trader",
+            "displayname": "LbiDefi",
+            "rawDescription": "Defi, Arbitrum Maxi.",
+            "created": "2022-02-26T20:14:05+00:00",
+            "followersCount": 1286,
+            "friendsCount": 888,
+            "statusesCount": 8856,
+            "favouritesCount": 7287,
+            "listedCount": 25,
+            "mediaCount": 1486,
+            "location": "",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1641628154434396166/-o7w6Nzy_normal.jpg",
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1497666255557439495/1673323468",
+            "protected": null,
+            "verified": false,
+            "blue": false,
+            "blueType": null,
+            "descriptionLinks": [
+                {
+                    "url": "https://linktr.ee/lbidefi",
+                    "text": "linktr.ee/lbidefi",
+                    "tcourl": "https://t.co/E28AmSpENY"
+                }
+            ],
+            "_type": "snscrape.modules.twitter.User"
+        },
+        "lang": "en",
+        "rawContent": "stopped out on both my #btc and $eth longs. No leverage at the moment. Spot only. But very long spot. If we close like this we will have confirmed bearish reversals on the D1 so i will be raising cash. \n\n$btc #arbitrum $gmx $arb",
+        "replyCount": 0,
+        "retweetCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "conversationId": 1724501015460745704,
+        "hashtags": [
+            "btc",
+            "arbitrum"
+        ],
+        "cashtags": [
+            "eth",
+            "btc",
+            "gmx",
+            "arb"
+        ],
+        "mentionedUsers": [],
+        "links": [],
+        "viewCount": null,
+        "retweetedTweet": null,
+        "quotedTweet": null,
+        "place": null,
+        "coordinates": null,
+        "inReplyToTweetId": null,
+        "inReplyToUser": null,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "sourceUrl": "https://mobile.twitter.com",
+        "sourceLabel": "Twitter Web App",
+        "media": {
+            "photos": [],
+            "videos": [],
+            "animated": []
+        },
+        "_type": "snscrape.modules.twitter.Tweet"
+    },
+    {
+        "id": 1724501014416363570,
+        "id_str": "1724501014416363570",
+        "url": "https://twitter.com/Ph_capital/status/1724501014416363570",
+        "date": "2023-11-14T18:54:16+00:00",
+        "user": {
+            "id": 1563140669929328641,
+            "id_str": "1563140669929328641",
+            "url": "https://twitter.com/Ph_capital",
+            "username": "Ph_capital",
+            "displayname": "P.H Capital",
+            "rawDescription": "#Crypto trader | Never allow green candles to control you.",
+            "created": "2022-08-26T12:26:00+00:00",
+            "followersCount": 56,
+            "friendsCount": 29,
+            "statusesCount": 97,
+            "favouritesCount": 288,
+            "listedCount": 0,
+            "mediaCount": 24,
+            "location": "Crypto",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1700197798363181056/lxP2CnCJ_normal.jpg",
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1563140669929328641/1694194033",
+            "protected": null,
+            "verified": false,
+            "blue": false,
+            "blueType": null,
+            "descriptionLinks": [],
+            "_type": "snscrape.modules.twitter.User"
+        },
+        "lang": "en",
+        "rawContent": "$ETH - Been saying for days !! ETH is NOT Bullish !! \nThey made you buy at 2k ++ !! Check all my posts concerning #ETH\n\n#Bitcoin #Btc #Cryptomarket https://t.co/Zkw4hzskz3",
+        "replyCount": 0,
+        "retweetCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "conversationId": 1724501014416363570,
+        "hashtags": [
+            "ETH",
+            "Bitcoin",
+            "Btc",
+            "Cryptomarket"
+        ],
+        "cashtags": [
+            "ETH"
+        ],
+        "mentionedUsers": [],
+        "links": [],
+        "viewCount": null,
+        "retweetedTweet": null,
+        "quotedTweet": {
+            "id": 1723952969966649522,
+            "id_str": "1723952969966649522",
+            "url": "https://twitter.com/Ph_capital/status/1723952969966649522",
+            "date": "2023-11-13T06:36:32+00:00",
+            "user": {
+                "id": 1563140669929328641,
+                "id_str": "1563140669929328641",
+                "url": "https://twitter.com/Ph_capital",
+                "username": "Ph_capital",
+                "displayname": "P.H Capital",
+                "rawDescription": "#Crypto trader | Never allow green candles to control you.",
+                "created": "2022-08-26T12:26:00+00:00",
+                "followersCount": 56,
+                "friendsCount": 29,
+                "statusesCount": 97,
+                "favouritesCount": 288,
+                "listedCount": 0,
+                "mediaCount": 24,
+                "location": "Crypto",
+                "profileImageUrl": "https://pbs.twimg.com/profile_images/1700197798363181056/lxP2CnCJ_normal.jpg",
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1563140669929328641/1694194033",
+                "protected": null,
+                "verified": false,
+                "blue": false,
+                "blueType": null,
+                "descriptionLinks": [],
+                "_type": "snscrape.modules.twitter.User"
+            },
+            "lang": "en",
+            "rawContent": "$ETH - Everyone here is extremely Bullish right now !! \n#CT never learns, and will never learn.\n\n#Bitcoin #Btc #Ethereum #Cryptomarket https://t.co/YPf7GTO3Bb",
+            "replyCount": 0,
+            "retweetCount": 0,
+            "likeCount": 1,
+            "quoteCount": 1,
+            "conversationId": 1723952969966649522,
+            "hashtags": [
+                "CT",
+                "Bitcoin",
+                "Btc",
+                "Ethereum",
+                "Cryptomarket"
+            ],
+            "cashtags": [
+                "ETH"
+            ],
+            "mentionedUsers": [],
+            "links": [],
+            "viewCount": 42,
+            "retweetedTweet": null,
+            "quotedTweet": null,
+            "place": null,
+            "coordinates": null,
+            "inReplyToTweetId": null,
+            "inReplyToUser": null,
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "sourceUrl": "https://mobile.twitter.com",
+            "sourceLabel": "Twitter Web App",
+            "media": {
+                "photos": [
+                    {
+                        "url": "https://pbs.twimg.com/media/F-y2Dd-XkAAYxWg.png"
+                    }
+                ],
+                "videos": [],
+                "animated": []
+            },
+            "_type": "snscrape.modules.twitter.Tweet"
+        },
+        "place": null,
+        "coordinates": null,
+        "inReplyToTweetId": null,
+        "inReplyToUser": null,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "sourceUrl": "https://mobile.twitter.com",
+        "sourceLabel": "Twitter Web App",
+        "media": {
+            "photos": [
+                {
+                    "url": "https://pbs.twimg.com/media/F-6oQuAXQAAviRH.png"
+                }
+            ],
+            "videos": [],
+            "animated": []
+        },
+        "_type": "snscrape.modules.twitter.Tweet"
+    },
+    {
+        "id": 1723952969966649522,
+        "id_str": "1723952969966649522",
+        "url": "https://twitter.com/Ph_capital/status/1723952969966649522",
+        "date": "2023-11-13T06:36:32+00:00",
+        "user": {
+            "id": 1563140669929328641,
+            "id_str": "1563140669929328641",
+            "url": "https://twitter.com/Ph_capital",
+            "username": "Ph_capital",
+            "displayname": "P.H Capital",
+            "rawDescription": "#Crypto trader | Never allow green candles to control you.",
+            "created": "2022-08-26T12:26:00+00:00",
+            "followersCount": 56,
+            "friendsCount": 29,
+            "statusesCount": 97,
+            "favouritesCount": 288,
+            "listedCount": 0,
+            "mediaCount": 24,
+            "location": "Crypto",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1700197798363181056/lxP2CnCJ_normal.jpg",
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1563140669929328641/1694194033",
+            "protected": null,
+            "verified": false,
+            "blue": false,
+            "blueType": null,
+            "descriptionLinks": [],
+            "_type": "snscrape.modules.twitter.User"
+        },
+        "lang": "en",
+        "rawContent": "$ETH - Everyone here is extremely Bullish right now !! \n#CT never learns, and will never learn.\n\n#Bitcoin #Btc #Ethereum #Cryptomarket https://t.co/YPf7GTO3Bb",
+        "replyCount": 0,
+        "retweetCount": 0,
+        "likeCount": 1,
+        "quoteCount": 1,
+        "conversationId": 1723952969966649522,
+        "hashtags": [
+            "CT",
+            "Bitcoin",
+            "Btc",
+            "Ethereum",
+            "Cryptomarket"
+        ],
+        "cashtags": [
+            "ETH"
+        ],
+        "mentionedUsers": [],
+        "links": [],
+        "viewCount": 42,
+        "retweetedTweet": null,
+        "quotedTweet": null,
+        "place": null,
+        "coordinates": null,
+        "inReplyToTweetId": null,
+        "inReplyToUser": null,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "sourceUrl": "https://mobile.twitter.com",
+        "sourceLabel": "Twitter Web App",
+        "media": {
+            "photos": [
+                {
+                    "url": "https://pbs.twimg.com/media/F-y2Dd-XkAAYxWg.png"
+                }
+            ],
+            "videos": [],
+            "animated": []
+        },
+        "_type": "snscrape.modules.twitter.Tweet"
+    },
+    {
+        "id": 1724501010972868747,
+        "id_str": "1724501010972868747",
+        "url": "https://twitter.com/seyedoption/status/1724501010972868747",
+        "date": "2023-11-14T18:54:15+00:00",
+        "user": {
+            "id": 825233183885115393,
+            "id_str": "825233183885115393",
+            "url": "https://twitter.com/seyedoption",
+            "username": "seyedoption",
+            "displayname": "Seyed Option",
+            "rawDescription": "15 years short term Option Day trader, master of fibonacci for levels, Learn to be friend with Regret. Only my opinion, tweets are not investment advice.",
+            "created": "2017-01-28T06:44:57+00:00",
+            "followersCount": 10818,
+            "friendsCount": 53,
+            "statusesCount": 66287,
+            "favouritesCount": 52225,
+            "listedCount": 275,
+            "mediaCount": 3865,
+            "location": "Tampa, FL, Washington, DC",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1157747104195870720/OTDGdZg0_normal.jpg",
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/825233183885115393/1610127283",
+            "protected": null,
+            "verified": false,
+            "blue": true,
+            "blueType": null,
+            "descriptionLinks": [
+                {
+                    "url": "https://buy.stripe.com/00g5ns2me5M43sI8wy",
+                    "text": "buy.stripe.com/00g5ns2me5M43s\u2026",
+                    "tcourl": "https://t.co/d4n7S6Vhmh"
+                }
+            ],
+            "_type": "snscrape.modules.twitter.User"
+        },
+        "lang": "en",
+        "rawContent": "$btc flushing https://t.co/3AnUt41rPo",
+        "replyCount": 0,
+        "retweetCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "conversationId": 1724501010972868747,
+        "hashtags": [],
+        "cashtags": [
+            "btc"
+        ],
+        "mentionedUsers": [],
+        "links": [],
+        "viewCount": null,
+        "retweetedTweet": null,
+        "quotedTweet": null,
+        "place": null,
+        "coordinates": null,
+        "inReplyToTweetId": null,
+        "inReplyToUser": null,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "sourceUrl": "http://twitter.com/download/iphone",
+        "sourceLabel": "Twitter for iPhone",
+        "media": {
+            "photos": [],
+            "videos": [],
+            "animated": [
+                {
+                    "thumbnailUrl": "https://pbs.twimg.com/tweet_video_thumb/F-6ohuMXcAEOVu7.jpg",
+                    "videoUrl": "https://video.twimg.com/tweet_video/F-6ohuMXcAEOVu7.mp4"
+                }
+            ]
+        },
+        "_type": "snscrape.modules.twitter.Tweet"
+    },
+    {
+        "id": 1724501008334860386,
+        "id_str": "1724501008334860386",
+        "url": "https://twitter.com/Binance_Leader/status/1724501008334860386",
+        "date": "2023-11-14T18:54:14+00:00",
+        "user": {
+            "id": 1617385337164271617,
+            "id_str": "1617385337164271617",
+            "url": "https://twitter.com/Binance_Leader",
+            "username": "Binance_Leader",
+            "displayname": "Binance Leaderboard Tracker",
+            "rawDescription": "Trade Alerts for top leaderboard traders. Project by @wufasa_.",
+            "created": "2023-01-23T04:55:01+00:00",
+            "followersCount": 1720,
+            "friendsCount": 2,
+            "statusesCount": 10254,
+            "favouritesCount": 28,
+            "listedCount": 50,
+            "mediaCount": 0,
+            "location": "",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1617431263530614784/Z87sR-ln_normal.jpg",
+            "profileBannerUrl": null,
+            "protected": null,
+            "verified": false,
+            "blue": false,
+            "blueType": null,
+            "descriptionLinks": [],
+            "_type": "snscrape.modules.twitter.User"
+        },
+        "lang": "en",
+        "rawContent": "\ud83d\udfe9 ADDITIONAL ENTRY DETECTED | Trader: Renaixensa | Position: Long $BTC  | Size: $1,047,643.33 / 29.79 Units | Net Delta: $1,598,286",
+        "replyCount": 0,
+        "retweetCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "conversationId": 1724501008334860386,
+        "hashtags": [],
+        "cashtags": [
+            "BTC"
+        ],
+        "mentionedUsers": [],
+        "links": [],
+        "viewCount": null,
+        "retweetedTweet": null,
+        "quotedTweet": null,
+        "place": null,
+        "coordinates": null,
+        "inReplyToTweetId": null,
+        "inReplyToUser": null,
+        "source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Binance Leaderboard Tracker</a>",
+        "sourceUrl": "https://twitter.com",
+        "sourceLabel": "Binance Leaderboard Tracker",
+        "media": {
+            "photos": [],
+            "videos": [],
+            "animated": []
+        },
+        "_type": "snscrape.modules.twitter.Tweet"
+    },
+    {
+        "id": 1721980845701898256,
+        "id_str": "1721980845701898256",
+        "url": "https://twitter.com/Bybit_Official/status/1721980845701898256",
+        "date": "2023-11-07T20:00:01+00:00",
+        "user": {
+            "id": 999947328621395968,
+            "id_str": "999947328621395968",
+            "url": "https://twitter.com/Bybit_Official",
+            "username": "Bybit_Official",
+            "displayname": "Bybit",
+            "rawDescription": "The most reliable cryptocurrency exchange. \n\nCelebrating 5 Years of Achievements #High5Bybit \ud83d\udd25",
+            "created": "2018-05-25T09:36:36+00:00",
+            "followersCount": 2683517,
+            "friendsCount": 662,
+            "statusesCount": 11710,
+            "favouritesCount": 5272,
+            "listedCount": 3146,
+            "mediaCount": 6291,
+            "location": "",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1719942513837105152/n1tJ2zpH_normal.jpg",
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/999947328621395968/1698901226",
+            "protected": null,
+            "verified": false,
+            "blue": true,
+            "blueType": "Business",
+            "descriptionLinks": [
+                {
+                    "url": "https://i.bybit.com/3ccpabg",
+                    "text": "i.bybit.com/3ccpabg",
+                    "tcourl": "https://t.co/uoted1Ptm7"
+                }
+            ],
+            "_type": "snscrape.modules.twitter.User"
+        },
+        "lang": "en",
+        "rawContent": "Celebrate 5 amazing years with Bybit \ud83d\ude0e\n\nShare your well-wishes and win our exclusive 5th Anniversary Mystery Merch Set \ud83c\udf81\n\nMore creativity = Higher chances of winning \ud83c\udfc6\n\n\ud83d\udc47Join the giveaway now!\n\n#High5Bybit #WeAreBybit",
+        "replyCount": 922,
+        "retweetCount": 404,
+        "likeCount": 6252,
+        "quoteCount": 25,
+        "conversationId": 1721980845701898256,
+        "hashtags": [
+            "High5Bybit",
+            "WeAreBybit"
+        ],
+        "cashtags": [],
+        "mentionedUsers": [],
+        "links": [],
+        "viewCount": 8471065,
+        "retweetedTweet": null,
+        "quotedTweet": null,
+        "place": null,
+        "coordinates": null,
+        "inReplyToTweetId": null,
+        "inReplyToUser": null,
+        "source": "<a href=\"https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels\" rel=\"nofollow\">advertiser-interface</a>",
+        "sourceUrl": "https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels",
+        "sourceLabel": "advertiser-interface",
+        "media": {
+            "photos": [],
+            "videos": [],
+            "animated": []
+        },
+        "_type": "snscrape.modules.twitter.Tweet"
+    },
+    {
+        "id": 1724501008330412308,
+        "id_str": "1724501008330412308",
+        "url": "https://twitter.com/exitpumpBTC/status/1724501008330412308",
+        "date": "2023-11-14T18:54:14+00:00",
+        "user": {
+            "id": 1373615088532328449,
+            "id_str": "1373615088532328449",
+            "url": "https://twitter.com/exitpumpBTC",
+            "username": "exitpumpBTC",
+            "displayname": "exitpump",
+            "rawDescription": "Sharing daily analysis on #Bitcoin based on CVD, Delta | Partners: @Bybit_Official @STFX_IO",
+            "created": "2021-03-21T12:39:09+00:00",
+            "followersCount": 8667,
+            "friendsCount": 383,
+            "statusesCount": 3387,
+            "favouritesCount": 9772,
+            "listedCount": 146,
+            "mediaCount": 1251,
+            "location": "",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1501306486391144449/sBycDanC_normal.jpg",
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1373615088532328449/1669484033",
+            "protected": null,
+            "verified": false,
+            "blue": false,
+            "blueType": null,
+            "descriptionLinks": [
+                {
+                    "url": "https://partner.bybit.com/b/exitpump",
+                    "text": "partner.bybit.com/b/exitpump",
+                    "tcourl": "https://t.co/Yr4VyGYyxA"
+                }
+            ],
+            "_type": "snscrape.modules.twitter.User"
+        },
+        "lang": "en",
+        "rawContent": "$ETH Update https://t.co/Yt2qy8w00E",
+        "replyCount": 0,
+        "retweetCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "conversationId": 1724393302349230516,
+        "hashtags": [],
+        "cashtags": [
+            "ETH"
+        ],
+        "mentionedUsers": [],
+        "links": [],
+        "viewCount": null,
+        "retweetedTweet": null,
+        "quotedTweet": null,
+        "place": null,
+        "coordinates": null,
+        "inReplyToTweetId": 1724393302349230516,
+        "inReplyToUser": {
+            "id": 1373615088532328449,
+            "username": "exitpumpBTC",
+            "displayname": "exitpump",
+            "_type": "snscrape.modules.twitter.UserRef"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "sourceUrl": "https://mobile.twitter.com",
+        "sourceLabel": "Twitter Web App",
+        "media": {
+            "photos": [
+                {
+                    "url": "https://pbs.twimg.com/media/F-6ohEFXsAAVA81.png"
+                }
+            ],
+            "videos": [],
+            "animated": []
+        },
+        "_type": "snscrape.modules.twitter.Tweet"
+    },
+    {
+        "id": 1724501006338121916,
+        "id_str": "1724501006338121916",
+        "url": "https://twitter.com/TNeoXBT/status/1724501006338121916",
+        "date": "2023-11-14T18:54:14+00:00",
+        "user": {
+            "id": 1651618566934765568,
+            "id_str": "1651618566934765568",
+            "url": "https://twitter.com/TNeoXBT",
+            "username": "TNeoXBT",
+            "displayname": "TraderNeo",
+            "rawDescription": "",
+            "created": "2023-04-27T16:05:47+00:00",
+            "followersCount": 437,
+            "friendsCount": 56,
+            "statusesCount": 15634,
+            "favouritesCount": 25776,
+            "listedCount": 1,
+            "mediaCount": 26,
+            "location": "",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1721798484389494784/V4p6ju-y_normal.jpg",
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1651618566934765568/1694900079",
+            "protected": null,
+            "verified": false,
+            "blue": false,
+            "blueType": null,
+            "descriptionLinks": [],
+            "_type": "snscrape.modules.twitter.User"
+        },
+        "lang": "en",
+        "rawContent": "@CryptoBheem What about btc, plan still valid brother??",
+        "replyCount": 0,
+        "retweetCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "conversationId": 1724500823072489855,
+        "hashtags": [],
+        "cashtags": [],
+        "mentionedUsers": [
+            {
+                "id": 1399033636691849222,
+                "username": "CryptoBheem",
+                "displayname": "Ahmed",
+                "_type": "snscrape.modules.twitter.UserRef"
+            }
+        ],
+        "links": [],
+        "viewCount": null,
+        "retweetedTweet": null,
+        "quotedTweet": null,
+        "place": null,
+        "coordinates": null,
+        "inReplyToTweetId": 1724500823072489855,
+        "inReplyToUser": {
+            "id": 1399033636691849222,
+            "username": "CryptoBheem",
+            "displayname": "Ahmed",
+            "_type": "snscrape.modules.twitter.UserRef"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "sourceUrl": "http://twitter.com/download/iphone",
+        "sourceLabel": "Twitter for iPhone",
+        "media": {
+            "photos": [],
+            "videos": [],
+            "animated": []
+        },
+        "_type": "snscrape.modules.twitter.Tweet"
+    },
+    {
+        "id": 1724501005537354171,
+        "id_str": "1724501005537354171",
+        "url": "https://twitter.com/Binance_Leader/status/1724501005537354171",
+        "date": "2023-11-14T18:54:14+00:00",
+        "user": {
+            "id": 1617385337164271617,
+            "id_str": "1617385337164271617",
+            "url": "https://twitter.com/Binance_Leader",
+            "username": "Binance_Leader",
+            "displayname": "Binance Leaderboard Tracker",
+            "rawDescription": "Trade Alerts for top leaderboard traders. Project by @wufasa_.",
+            "created": "2023-01-23T04:55:01+00:00",
+            "followersCount": 1720,
+            "friendsCount": 2,
+            "statusesCount": 10254,
+            "favouritesCount": 28,
+            "listedCount": 50,
+            "mediaCount": 0,
+            "location": "",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1617431263530614784/Z87sR-ln_normal.jpg",
+            "profileBannerUrl": null,
+            "protected": null,
+            "verified": false,
+            "blue": false,
+            "blueType": null,
+            "descriptionLinks": [],
+            "_type": "snscrape.modules.twitter.User"
+        },
+        "lang": "en",
+        "rawContent": "\ud83d\udfe5 PARTIAL EXIT DETECTED | Trader: xxxxx\u70b9eth | Position: Long $BTC | Size: $-30,525,930.47 / -861.03 Units | ROI / ROE:  0.3% / 2.7% | Net Delta: $4,900,169",
+        "replyCount": 0,
+        "retweetCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "conversationId": 1724501005537354171,
+        "hashtags": [],
+        "cashtags": [
+            "BTC"
+        ],
+        "mentionedUsers": [],
+        "links": [],
+        "viewCount": null,
+        "retweetedTweet": null,
+        "quotedTweet": null,
+        "place": null,
+        "coordinates": null,
+        "inReplyToTweetId": null,
+        "inReplyToUser": null,
+        "source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Binance Leaderboard Tracker</a>",
+        "sourceUrl": "https://twitter.com",
+        "sourceLabel": "Binance Leaderboard Tracker",
+        "media": {
+            "photos": [],
+            "videos": [],
+            "animated": []
+        },
+        "_type": "snscrape.modules.twitter.Tweet"
+    },
+    {
+        "id": 1724501003913871513,
+        "id_str": "1724501003913871513",
+        "url": "https://twitter.com/AroAlfaPlus/status/1724501003913871513",
+        "date": "2023-11-14T18:54:13+00:00",
+        "user": {
+            "id": 1307720017635614720,
+            "id_str": "1307720017635614720",
+            "url": "https://twitter.com/AroAlfaPlus",
+            "username": "AroAlfaPlus",
+            "displayname": "CryptoD$ddy",
+            "rawDescription": "MY THOUGHTS&TRADING DIARY \n \n\ud83d\udc3bSeasonal bear&bull \ud83d\udc02 \n\ud83d\udcc9TA/On-chain analyst\ud83d\udcc8\n\nDO YOUR OWN RESEARCH\nNOT FINANCIAL ADVICE",
+            "created": "2020-09-20T16:35:56+00:00",
+            "followersCount": 1558,
+            "friendsCount": 194,
+            "statusesCount": 12146,
+            "favouritesCount": 10215,
+            "listedCount": 16,
+            "mediaCount": 4899,
+            "location": "",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1697160613753917440/q7nvjW9h_normal.jpg",
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1307720017635614720/1673693502",
+            "protected": null,
+            "verified": false,
+            "blue": false,
+            "blueType": null,
+            "descriptionLinks": [
+                {
+                    "url": "https://opensea.io/collection/the-gr3at-reset-nft",
+                    "text": "opensea.io/collection/the\u2026",
+                    "tcourl": "https://t.co/WKUYNpSWIo"
+                }
+            ],
+            "_type": "snscrape.modules.twitter.User"
+        },
+        "lang": "en",
+        "rawContent": "Major bids filled\nNo asks above\n\nSend it back\n\n#BTC https://t.co/XmgtIbAJsq",
+        "replyCount": 0,
+        "retweetCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "conversationId": 1724501003913871513,
+        "hashtags": [
+            "BTC"
+        ],
+        "cashtags": [],
+        "mentionedUsers": [],
+        "links": [],
+        "viewCount": null,
+        "retweetedTweet": null,
+        "quotedTweet": null,
+        "place": null,
+        "coordinates": null,
+        "inReplyToTweetId": null,
+        "inReplyToUser": null,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "sourceUrl": "https://mobile.twitter.com",
+        "sourceLabel": "Twitter Web App",
+        "media": {
+            "photos": [
+                {
+                    "url": "https://pbs.twimg.com/media/F-6ocBaWIAAVf9K.jpg"
+                }
+            ],
+            "videos": [],
+            "animated": []
+        },
+        "_type": "snscrape.modules.twitter.Tweet"
+    },
+    {
+        "id": 1724501002747871267,
+        "id_str": "1724501002747871267",
+        "url": "https://twitter.com/btc4321/status/1724501002747871267",
+        "date": "2023-11-14T18:54:13+00:00",
+        "user": {
+            "id": 4827237924,
+            "id_str": "4827237924",
+            "url": "https://twitter.com/btc4321",
+            "username": "btc4321",
+            "displayname": "aang",
+            "rawDescription": "#bitcoin $btc",
+            "created": "2016-01-28T22:08:14+00:00",
+            "followersCount": 78,
+            "friendsCount": 2243,
+            "statusesCount": 8013,
+            "favouritesCount": 23120,
+            "listedCount": 5,
+            "mediaCount": 147,
+            "location": "Manchester, England",
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1354922240777842688/P1vzFSUb_normal.jpg",
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/4827237924/1602281897",
+            "protected": null,
+            "verified": false,
+            "blue": false,
+            "blueType": null,
+            "descriptionLinks": [],
+            "_type": "snscrape.modules.twitter.User"
+        },
+        "lang": "en",
+        "rawContent": "@iKh7C I don't understand why you don't want caliphate? Isn't dream of every Muslim? Do you not want Muslim world to be united under one ruler who would rule us according to Qur'an and sunnah? What is more islamic current system or caliphate? What would you propose?",
+        "replyCount": 0,
+        "retweetCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "conversationId": 1724497781853651449,
+        "hashtags": [],
+        "cashtags": [],
+        "mentionedUsers": [
+            {
+                "id": 2813179352,
+                "username": "iKh7C",
+                "displayname": "\ud83c\uddf8\ud83c\udde6",
+                "_type": "snscrape.modules.twitter.UserRef"
+            }
+        ],
+        "links": [],
+        "viewCount": null,
+        "retweetedTweet": null,
+        "quotedTweet": null,
+        "place": null,
+        "coordinates": null,
+        "inReplyToTweetId": 1724497781853651449,
+        "inReplyToUser": {
+            "id": 2813179352,
+            "username": "iKh7C",
+            "displayname": "\ud83c\uddf8\ud83c\udde6",
+            "_type": "snscrape.modules.twitter.UserRef"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "sourceUrl": "http://twitter.com/download/android",
+        "sourceLabel": "Twitter for Android",
+        "media": {
+            "photos": [],
+            "videos": [],
+            "animated": []
+        },
+        "_type": "snscrape.modules.twitter.Tweet"
+    }
+]
