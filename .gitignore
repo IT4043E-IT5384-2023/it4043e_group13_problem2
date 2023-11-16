@@ -1,5 +1,6 @@
-# Large data files
-data/twitter/*
+# Large data files, except one with file name include _example
+data/twitter/* 
+!*_example*
 
 # Accounts' login info
 accounts*.txt
