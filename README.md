@@ -13,6 +13,7 @@ pip install -r requirements.txt
 ```
 
 2. Set up environment variables in `.env` file
+
    To use this script, you need to set up environment variables in `.env` file. All the variables are listed in `.env.example` file. There are two:
 
 - `CMC_API_KEY`: API key for CoinMarketCap API, needed for running `coin_market_cap.py` script to collect metadata of cryptocurrencies.
