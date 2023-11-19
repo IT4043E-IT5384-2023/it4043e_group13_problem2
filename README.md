@@ -22,7 +22,7 @@ pip install -r requirements.txt
 3. Run the script
 
 ```
-python -m keyword_tweets_crawler -s <start_idx> -e <end_idx> -l <limit>
+python -m keyword_tweets_crawler --start <start_idx> --end <end_idx> --limit <limit>
 ```
 
 where `start_idx` and `end_idx` are the start and end index of the list of cryptocurrencies to scrape, and `limit` is the maximum number of tweets to scrape for each cryptocurrency.
