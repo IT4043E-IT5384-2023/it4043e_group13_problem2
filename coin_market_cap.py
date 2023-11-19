@@ -54,8 +54,8 @@ def get_coins_metadata(ids):
                 data = json.loads(response.text)
 
                 # If the file is empty, add the data
-                if not os.path.isfile("coins_metadata.json"):
-                    with open("coins_metadata.json", "w") as f:
+                if not os.path.isfile("CMC_coins_metadata.json"):
+                    with open("CMC_coins_metadata.json", "w") as f:
                         json.dump(data, f, indent=4)
 
                 # If the file is not empty, update the data
