@@ -1,4 +1,4 @@
-# portfolio Management Application
+# Portfolio Management Application
 
 ## Description
 
